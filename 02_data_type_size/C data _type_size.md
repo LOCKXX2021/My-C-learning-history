@@ -95,3 +95,5 @@ printf("%d\n",sizeof(char a));
 char类型为字符串类型，占1byte
 
 初始化占位符为%c
+
+但使用%d可输出ASCII
